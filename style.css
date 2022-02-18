@@ -1,0 +1,52 @@
+.text-centered {
+  text-align: center;
+}
+
+.background {
+  background-color: #6B9080;
+  color: white;
+} /*for header and footer background*/
+
+.wrapper {
+  width: 300 px;
+  margin: auto;
+}
+
+.small-text {
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-size: 30px;
+  padding-top: 50px;
+  ;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} /*center picture and links*/
+
+.main-background {
+  background-color: #EAF4F4;
+}
+
+hr {
+  margin: 60pxp;
+}
+  
+a:link    { color: darkgreen;  }
+a:visited { color: #6B9080;   }
+a:hover   { color: gray; }
+a:active  { color: red;  }
+
+footer {
+  padding-bottom: 20px;
+} /*adding space at bottom of footer*/
+
+
+
+
