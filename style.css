@@ -38,10 +38,10 @@ hr {
   margin: 60pxp;
 }
   
-a:link    { color: darkgreen;  }
-a:visited { color: #6B9080;   }
-a:hover   { color: gray; }
-a:active  { color: red;  }
+a:link    { color: darkgreen;}
+a:visited { color: #6B9080;}
+a:hover   { color: gray;}
+a:active  { color: red;}
 
 footer {
   padding-bottom: 20px;
