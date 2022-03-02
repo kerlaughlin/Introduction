@@ -2,9 +2,14 @@
   text-align: center;
 }
 
+.list {
+  text-align: center;
+  list-style-position: inside;
+}
+
 .background {
   background-color: #6B9080;
-  color: white;
+  color: black;
 } /*for header and footer background*/
 
 .wrapper {
@@ -38,10 +43,11 @@ hr {
   margin: 60pxp;
 }
   
-a:link    { color: darkgreen;}
-a:visited { color: #6B9080;}
-a:hover   { color: gray;}
-a:active  { color: red;}
+a:link    { color: darkgreen; 
+          text-align: center;}
+a:visited { color: #6B9080;   }
+a:hover   { color: gray; }
+a:active  { color: red;  }
 
 footer {
   padding-bottom: 20px;
