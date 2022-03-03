@@ -24,7 +24,8 @@
 h1 {
   font-family: 'Times New Roman', Times, serif;
   text-size: 30px;
-  padding-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   ;
 }
 
@@ -40,7 +41,8 @@ h1 {
 }
 
 hr {
-  margin: 60pxp;
+  margin: auto;
+  border-top: 1px solid ;
 }
   
 a:link    { color: darkgreen; 
@@ -50,7 +52,7 @@ a:hover   { color: gray; }
 a:active  { color: red;  }
 
 footer {
-  padding-bottom: 20px;
+  height: 50px;
 } /*adding space at bottom of footer*/
 
 
